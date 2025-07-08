@@ -22,7 +22,7 @@
         <li><a href="#built-with">Built With</a></li>
         <li><a href="#projects-under-repo">Projects Under Repo</a></li>
         <ul>
-            <li><a href="#x">x</a></li>
+            <li><a href="#nice_or_mean_game">Nice or Mean Game</a></li>
         </ul>
         <li><a href="#license">License</a></li>
         <li><a href="#contact">Contact</a></li>
@@ -33,7 +33,9 @@
 
 <!--ABOUT THE PROJECT -->
 ## About The Project
-The repository contains Tech Academy projects involving the programming langague Python. Will fill this repo out as I progress through the bootcamp module.
+The repository contains Tech Academy projects involving the programming langague Python. Learned the basics of Python and object-oriented programming. Also learn how to use the libraries tkinter and Sqlite, and the framework Django.<br>
+I will be filling out the "Projects Under Repo" as I advance through the Bootcamp. Please stay tuned for future projects!
+
 
 <p align="right">(<a href="#readme-top">Back To Top</a>)</p>
 
@@ -45,8 +47,8 @@ The repository contains Tech Academy projects involving the programming langague
 
 <!-- Projects under repo -->
 ## Projects Under Repo
-### x
-N/A
+### Nice or Mean Game
+Created a simple game in Python using just functions to control the flow of the game.
 
 <p align="right">(<a href="#readme-top">Back To Top</a>)</p>
 
