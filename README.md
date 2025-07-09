@@ -24,6 +24,7 @@
         <ul>
             <li><a href="#nice_or_mean_game">Nice or Mean Game</a></li>
             <li><a href="#sqlite3-project">Sqlite3 Project</a></li>
+            <li><a href="#misc-assignments">Misc Assignments</a></li>
         </ul>
         <li><a href="#license">License</a></li>
         <li><a href="#contact">Contact</a></li>
@@ -53,7 +54,11 @@ A simple game in Python using just functions to control the flow of the game.
 
 ### Sqlite3 Project
 Created a Sqlite3 database and then scanned a list of pseudo file names, pulled out the ones that where text
-files and inserted them into the database. Desaturates the basic understanding of using a SQL library in Python.
+files and inserted them into the database. Desaturates the basic understanding of using an SQL library in Python.
+
+### Misc Assignments
+A folder that contains miscellaneous assignments given to me--the student--during the Python bootcamp.
+It contains scripts showing me learning the concepts of Python. 
 
 <p align="right">(<a href="#readme-top">Back To Top</a>)</p>
 
