@@ -23,6 +23,7 @@
         <li><a href="#projects-under-repo">Projects Under Repo</a></li>
         <ul>
             <li><a href="#nice_or_mean_game">Nice or Mean Game</a></li>
+            <li><a href="#sqlite3-project">Sqlite3 Project</a></li>
         </ul>
         <li><a href="#license">License</a></li>
         <li><a href="#contact">Contact</a></li>
@@ -48,7 +49,11 @@ I will be filling out the "Projects Under Repo" as I advance through the Bootcam
 <!-- Projects under repo -->
 ## Projects Under Repo
 ### Nice or Mean Game
-Created a simple game in Python using just functions to control the flow of the game.
+A simple game in Python using just functions to control the flow of the game.
+
+### Sqlite3 Project
+Created a Sqlite3 database and then scanned a list of pseudo file names, pulled out the ones that where text
+files and inserted them into the database. Desaturates the basic understanding of using a SQL library in Python.
 
 <p align="right">(<a href="#readme-top">Back To Top</a>)</p>
 
