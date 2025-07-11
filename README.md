@@ -24,6 +24,8 @@
         <ul>
             <li><a href="#nice_or_mean_game">Nice or Mean Game</a></li>
             <li><a href="#sqlite3-project">Sqlite3 Project</a></li>
+            <li><a href="#file-transfer">File Transfer</a></li>
+            <li><a href="#web-page-generator-assignment">Web page Generator assignment</a></li>
             <li><a href="#misc-assignments">Misc Assignments</a></li>
         </ul>
         <li><a href="#license">License</a></li>
@@ -44,6 +46,8 @@ I will be filling out the "Projects Under Repo" as I advance through the Bootcam
 <!--BUILT WITH-->
 ## Built With
 * [![Python][python-shield]][python-url]
+* [![SQLite][sqlite-shield]][sqlite-url]
+* [![tkinter][tkinter-shield]][tkinter-url]
 
 <p align="right">(<a href="#readme-top">Back To Top</a>)</p>
 
@@ -56,9 +60,16 @@ A simple game in Python using just functions to control the flow of the game.
 Created a Sqlite3 database and then scanned a list of pseudo file names, pulled out the ones that where text
 files and inserted them into the database. Desaturates the basic understanding of using an SQL library in Python.
 
+### File Transfer
+An application that takes the files from the selected source directory and moves them over to the selected
+destination directory. It will only move files that are new or have been modified in less than 24 hours.
+
+### Web Page Generator Assignment
+A simple GUI that can add a default HTML text to a pre-existing HTML file or insert custom text provided by the user.
+
 ### Misc Assignments
 A folder that contains miscellaneous assignments given to me--the student--during the Python bootcamp.
-It contains scripts showing me learning the concepts of Python. 
+It contains scripts showing me learning the concepts of Python.
 
 <p align="right">(<a href="#readme-top">Back To Top</a>)</p>
 
@@ -98,5 +109,9 @@ Please head to my portfolio website and use the contact form to reach out to me:
 
 [python-shield]: https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
 [python-url]: https://www.python.org
+[sqlite-shield]: https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white
+[sqlite-url]: https://sqlite.org/index.html
+[tkinter-shield]: https://img.shields.io/badge/Tkinter-bfbfbf?style=for-the-badge
+[tkinter-url]: https://docs.python.org/3/library/tkinter.html
 
 [portfolio-url]: https://colorlesssaber.github.io/
