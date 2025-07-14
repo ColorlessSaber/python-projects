@@ -37,7 +37,7 @@
 
 <!--ABOUT THE PROJECT -->
 ## About The Project
-The repository contains Tech Academy projects involving the programming langague Python. Learned the basics of Python and object-oriented programming. Also learn how to use the libraries tkinter and Sqlite, and the framework Django.<br>
+The repository contains Tech Academy projects involving the programming language Python. Learn the basics of Python and object-oriented programming. Also learned how to use the libraries tkinter and Sqlite, and the framework Django.<br>
 I will be filling out the "Projects Under Repo" as I advance through the Bootcamp. Please stay tuned for future projects!
 
 
@@ -79,7 +79,7 @@ Distributed under the MIT License. See 'LICENSE.txt' for more information.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- Conact -->
+<!-- Contact -->
 ## Contact
 Please head to my portfolio website and use the contact form to reach out to me:
 [My Portfolio Website][portfolio-url]
