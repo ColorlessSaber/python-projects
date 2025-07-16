@@ -26,6 +26,8 @@
             <li><a href="#sqlite3-project">Sqlite3 Project</a></li>
             <li><a href="#file-transfer">File Transfer</a></li>
             <li><a href="#web-page-generator-assignment">Web page Generator assignment</a></li>
+            <li><a href="#django-learning">Django Learning</a></li>
+            <li><a href="#django-checkbook-project">Django Checkbook Project</a></li>
             <li><a href="#misc-assignments">Misc Assignments</a></li>
         </ul>
         <li><a href="#license">License</a></li>
@@ -37,9 +39,8 @@
 
 <!--ABOUT THE PROJECT -->
 ## About The Project
-The repository contains Tech Academy projects involving the programming language Python. Learn the basics of Python and object-oriented programming. Also learned how to use the libraries tkinter and Sqlite, and the framework Django.<br>
-I will be filling out the "Projects Under Repo" as I advance through the Bootcamp. Please stay tuned for future projects!
-
+The repository contains Tech Academy projects involving the programming language Python. Learn the basics of Python and
+object-oriented programming. Also learned how to use the libraries tkinter and Sqlite, and the framework Django.<br>
 
 <p align="right">(<a href="#readme-top">Back To Top</a>)</p>
 
@@ -48,6 +49,7 @@ I will be filling out the "Projects Under Repo" as I advance through the Bootcam
 * [![Python][python-shield]][python-url]
 * [![SQLite][sqlite-shield]][sqlite-url]
 * [![tkinter][tkinter-shield]][tkinter-url]
+* [![django][django-shield]][django-url]
 
 <p align="right">(<a href="#readme-top">Back To Top</a>)</p>
 
@@ -63,9 +65,19 @@ files and inserted them into the database. Desaturates the basic understanding o
 ### File Transfer
 An application that takes the files from the selected source directory and moves them over to the selected
 destination directory. It will only move files that are new or have been modified in less than 24 hours.
+This project used Python and the library Tkinter.
 
 ### Web Page Generator Assignment
 A simple GUI that can add a default HTML text to a pre-existing HTML file or insert custom text provided by the user.
+
+### Django Learning
+The folder contains two simple Django projects. Both show me learning the basics of Django and creating a simple website
+using the framework.
+
+### Django Checkbook Project
+The final project when learning Django. A simple bank website that keeps track of several accounts and their
+individual deposits and withdrawals. This project demonstrates the knowledge I have learned about the Python framework
+Django.
 
 ### Misc Assignments
 A folder that contains miscellaneous assignments given to me--the student--during the Python bootcamp.
@@ -113,5 +125,7 @@ Please head to my portfolio website and use the contact form to reach out to me:
 [sqlite-url]: https://sqlite.org/index.html
 [tkinter-shield]: https://img.shields.io/badge/Tkinter-bfbfbf?style=for-the-badge
 [tkinter-url]: https://docs.python.org/3/library/tkinter.html
+[django-shield]: https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white
+[django-url]: https://www.djangoproject.com/
 
 [portfolio-url]: https://colorlesssaber.github.io/
